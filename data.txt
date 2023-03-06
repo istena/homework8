@@ -1,0 +1,4 @@
+Fedor;Ivanov;483656783;Ekaterenburg
+July;Petrova;56783475;Nizhnii Novgorod
+Petor:;Sidorov;4376834;Moscow
+Ivan;Smolov;83576435;Kazan
